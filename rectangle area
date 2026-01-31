@@ -1,0 +1,4 @@
+length=4
+width=5
+rectangle_area=length*width
+print("area of rectangle:",rectangle_area)
