@@ -1,0 +1,4 @@
+base=4
+height=10
+area=(1/2)*base*height
+print("area of triangle:",area)
